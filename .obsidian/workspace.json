@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "52ead32043ac225f",
+        "id": "8533dee9c6c33771",
         "type": "tabs",
         "children": [
           {
-            "id": "eed7f012ecb5d71f",
+            "id": "6034052343b5d472",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/(Every S) Review Digital design.md",
+                "file": "GateNotes/DBMS/1.2 Relational Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "873c1c113cd2a3a7",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0472b852ef57b432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GateNotes/ComputerArchitecture/5.2 Cache.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dispatcher",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/(Every S) Review Digital design.md",
+                "file": "GateNotes/ComputerArchitecture/5.2 Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/(Every S) Review Digital design.md",
+                "file": "GateNotes/ComputerArchitecture/5.2 Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/(Every S) Review Digital design.md"
+                "file": "GateNotes/ComputerArchitecture/5.2 Cache.md"
               }
             }
           }
@@ -147,34 +168,53 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "eed7f012ecb5d71f",
+  "active": "0472b852ef57b432",
   "lastOpenFiles": [
-    "Todo/(Every F) Review Computer Architecture.md",
-    "GateNotes/ComputerArchitecture/5.2 Cache.md",
-    "Todo/(Every S) Review Digital design.md",
-    "Todo/(Every T) Review DBMS.md",
-    "GateNotes/Questions.md",
-    "GateNotes/DBMS/1.3 Relational Calculus.md",
     "GateNotes/DBMS/1.2 Relational Algebra.md",
-    "GateNotes/DBMS/1.1 Relation data model.md",
-    "GateNotes/ComputerArchitecture/5.3 DMA.md",
-    "GateNotes/ComputerArchitecture/5.1 Memory Organization.md",
-    "GateNotes/ComputerArchitecture/4.1 Basic Processing Unit.md",
+    "GateNotes/DBMS/1.3 Relational Calculus.md",
     "GateNotes/ComputerArchitecture/3.1 Basic IO.md",
-    "GateNotes/ComputerArchitecture/2.3 Computer Organization - CISC.md",
+    "GateNotes/OperatingSystems/4.2 Paging.md",
     "GateNotes/ComputerArchitecture/2.2 Computer Organization - RISC.md",
-    "GateNotes/ComputerArchitecture/2.1 Computer Organization - Machine instructions.md",
-    "Syllabus.pdf",
+    "GateNotes/ComputerArchitecture/2.3 Computer Organization - CISC.md",
+    "GateNotes/ComputerArchitecture/4.1 Basic Processing Unit.md",
+    "GateNotes/ComputerArchitecture/5.1 Memory Organization.md",
+    "GateNotes/ComputerArchitecture/5.2 Cache.md",
+    "GateNotes/ComputerArchitecture/5.3 DMA.md",
     "GateNotes/OperatingSystems/4.1 Memory Organization.md",
-    "GateNotes/OperatingSystems/3.2 Dead Lock.md",
-    "GateNotes/OperatingSystems/3.1 Process Synchronization.md",
-    "GateNotes/OperatingSystems/2.3 Scheduling.md",
     "Todo/(Every R) Review OS.md",
-    "GateNotes/OperatingSystems/2.2 Threads.md",
+    "GateNotes/OperatingSystems/3.2 Dead Lock.md",
+    "GateNotes/ComputerArchitecture/2.1 Computer Organization - Machine instructions.md",
+    "address_resolution_with_tlb.png",
+    "GateNotes/OperatingSystems/Attachments/Images/address_resolution_with_tlb.png",
     "GateNotes/OperatingSystems/2.1 Processes.md",
+    "GateNotes/OperatingSystems/Attachments/Images/page_table_example.png.~tmp",
+    "GateNotes/OperatingSystems/Attachments/Images/page_table_example.png",
+    "GateNotes/OperatingSystems/2.3 Scheduling.md",
+    "GateNotes/OperatingSystems/3.1 Process Synchronization.md",
+    "GateNotes/OperatingSystems/2.2 Threads.md",
+    "GateNotes/ComputerNetworks/1.1 Introduction.md",
     "GateNotes/OperatingSystems/1.1 Introduction to Operation Systems.md",
-    "GateNotes/DigitalDesign/3.1 Sequential Circuits.md",
-    "GateNotes/DigitalDesign/2.1 Combinational circuits.md",
-    "GateNotes/DigitalDesign/1.2 Logic Gates & Boolean algebra.md"
+    "GateNotes/ComputerNetworks/Attachments/Images/network_delay.png",
+    "GateNotes/ComputerNetworks/Attachments/Images/Screenshot 2023-10-24 115929.png",
+    "GateNotes/ComputerNetworks/Attachments/Images/network_structure.png",
+    "GateNotes/ComputerNetworks/Attachments/Images/Screenshot 2023-10-24 113646.png",
+    "GateNotes/ComputerNetworks/Attachments/Images/select_syntax.png",
+    "GateNotes/ComputerNetworks/Attachments/Images/select_example.png",
+    "GateNotes/ComputerNetworks/Attachments/Images/right_outer_join.png",
+    "GateNotes/ComputerNetworks/Attachments/PDFs",
+    "GateNotes/ComputerNetworks/Attachments/Images",
+    "GateNotes/ComputerNetworks/Attachments",
+    "GateNotes/ComputerNetworks/1.3 Relational Calculus.md",
+    "GateNotes/ComputerNetworks/1.2 Relational Algebra.md",
+    "GateNotes/ComputerNetworks/1.1 Relation data model.md",
+    "GateNotes/ComputerNetworks",
+    "GateNotes/DBMS - Copy/Attachments/PDFs",
+    "GateNotes/DBMS - Copy/Attachments/Images",
+    "GateNotes/DBMS - Copy/Attachments",
+    "GateNotes/DBMS - Copy/1.3 Relational Calculus.md",
+    "GateNotes/DBMS - Copy/1.2 Relational Algebra.md",
+    "GateNotes/DBMS - Copy/1.1 Relation data model.md",
+    "GateNotes/DBMS - Copy",
+    "Question Papers/cs_2015.pdf"
   ]
 }
