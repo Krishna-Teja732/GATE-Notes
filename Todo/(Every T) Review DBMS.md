@@ -16,6 +16,7 @@ endRecur: 2024-03-01
 - [Relational Schema](https://practicepaper.in/gate-cse/relational-schema)
 - [Integrity constraints](https://practicepaper.in/gate-cse/integrity-constraints)
 - [Relational Algebra](https://practicepaper.in/gate-cse/relational-algebra)
+- E-R model
 
 #### Topics to Learn
 - Tuple calculus
@@ -25,4 +26,4 @@ endRecur: 2024-03-01
 - File organization
 - Transaction and concurrency control
 - SQL
-- E-R model
+- Enhanced ER Model
