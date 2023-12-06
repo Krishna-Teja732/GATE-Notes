@@ -21,10 +21,9 @@ endRecur: 2024-03-01
 - [Threads](https://practicepaper.in/gate-cse/thread)
 - [Scheduling](https://practicepaper.in/gate-cse/cpu-scheduling)
 - [Process Synchronization](https://practicepaper.in/gate-cse/process-synchronization)
+- [Memory organization](https://practicepaper.in/gate-cse/memory-management?page_no=10)
 
 #### Topics to learn
-- Process Synchronization 
-	- Monitors
 - C programming
 	- basics
 	- System calls 
