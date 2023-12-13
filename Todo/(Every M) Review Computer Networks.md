@@ -7,7 +7,13 @@ startRecur: 2023-10-23
 endRecur: 2024-03-01
 ---
 #### Topics Learnt
-- 
+- OSI model
+- Application Layer Protocols
+	- DNS
+	- SMTP
+	- HTTP
+	- FTP
+	- Email
 
 #### Review Questions
 - [OSI Layer](https://www.practicepaper.in/gate-cse/osi-layer)
@@ -19,7 +25,6 @@ endRecur: 2024-03-01
 - [Network Security](https://www.practicepaper.in/gate-cse/network-security)
 
 #### Topics to learn
-- OSI model
 - Physical Layer
 - Data Link Layer
 	- Framing
@@ -39,10 +44,4 @@ endRecur: 2024-03-01
 	- UDP
 	- TCP
 	- Sockets
-- Application Layer Protocols
-	- DNS
-	- SMTP
-	- HTTP
-	- FTP
-	- Email
 - Network Security

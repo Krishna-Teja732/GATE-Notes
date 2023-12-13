@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aa159a18488b4f0f",
+        "id": "1fdb41bcedced59f",
         "type": "tabs",
         "children": [
           {
-            "id": "35f78d9e05c8ed62",
+            "id": "f6f2d39baf1b701c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GateNotes/ComputerNetworks/1.2 OSI.md",
+                "file": "GateNotes/ComputerNetworks/3.2 TCP.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "fe29093993e2e04a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GateNotes/ComputerNetworks/2.1 Application Layer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7daf98384208bd45",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "complete",
+                "query": "Pipelined",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GateNotes/ComputerNetworks/2.1 Application Layer.md",
+                "file": "GateNotes/ComputerNetworks/3.2 TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GateNotes/ComputerNetworks/2.1 Application Layer.md",
+                "file": "GateNotes/ComputerNetworks/3.2 TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GateNotes/ComputerNetworks/2.1 Application Layer.md"
+                "file": "GateNotes/ComputerNetworks/3.2 TCP.md"
               }
             }
           }
@@ -168,13 +147,28 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fe29093993e2e04a",
+  "active": "d61075cf8a152f57",
   "lastOpenFiles": [
-    "GateNotes/ComputerNetworks/Attachments/Images/dns_iterative_recursive_eg.jpg",
+    "GateNotes/ComputerNetworks/3.3 TCP Congestion Control.md",
+    "GateNotes/ComputerNetworks/3.2 TCP.md",
+    "GateNotes/ComputerNetworks/Attachments/Images/tcp_closing_connection.png",
+    "GateNotes/ComputerNetworks/Attachments/Images/tcp_three_way_handshake.png",
+    "3.2 TCP.md",
+    "GateNotes/ComputerNetworks/3.2 Principles for Reliable data transfer.md",
+    "GateNotes/ComputerNetworks/3.1 Transport Layer - TCP and UDP.md",
     "GateNotes/ComputerNetworks/1.2 OSI.md",
+    "GateNotes/ComputerNetworks/2.1 Application Layer.md",
+    "GateNotes/ComputerNetworks/Attachments/Images/tcp_segment.png",
+    "GateNotes/ComputerNetworks/Attachments/Images/Pasted image 20231209083822.png",
+    "GateNotes/ComputerNetworks/Attachments/Images/tcp_state_diag_case1.png",
+    "Todo/(Every M) Review Computer Networks.md",
+    "GateNotes/DBMS/1.4 Relational Tuple Calculus.md",
+    "GateNotes/DBMS/2.1 ER Models.md",
+    "GateNotes/DBMS/3.1 DB Design.md",
+    "GateNotes/DBMS/3.2 DB Design - Normal Forms.md",
+    "GateNotes/ComputerNetworks/Attachments/Images/dns_iterative_recursive_eg.jpg",
     "GateNotes/ComputerNetworks/Attachments/Images/email_example.png",
     "GateNotes/ComputerNetworks/Attachments/Images/Pasted image 20231205114726.png",
-    "GateNotes/ComputerNetworks/2.1 Application Layer.md",
     "GateNotes/ComputerNetworks/1.1 Introduction.md",
     "Todo/(Every U) Review Data Structures & Algorithms.md",
     "GateNotes/DigitalDesign/2.1 Combinational circuits.md",
@@ -190,23 +184,8 @@
     "Todo/(Every T) Review DBMS.md",
     "Todo/(Every R) Review OS.md",
     "Todo/(Every R) Review Compiler Design.md",
-    "Todo/(Every M) Review Computer Networks.md",
-    "Todo/(Every F) Review Computer Architecture.md",
-    "Todo/(Every W) Review TOC.md",
-    "Todo/Untitled.md",
-    "GateNotes/ComputerArchitecture/5.2 Cache.md",
-    "GateNotes/ComputerArchitecture/5.1 Memory Organization.md",
-    "GateNotes/ComputerArchitecture/4.1 Basic Processing Unit.md",
-    "GateNotes/ComputerArchitecture/3.1 Basic IO.md",
-    "GateNotes/ComputerArchitecture/2.3 Computer Organization - CISC.md",
     "GateNotes/DBMS/Attachments/Images/er_diag_notations.png",
     "Pasted image 20231128225332.png",
-    "GateNotes/ComputerNetworks/Attachments/Images/network_structure.png",
-    "GateNotes/ComputerNetworks/Attachments/Images/network_delay.png",
-    "GateNotes/OperatingSystems/Attachments/Images/disk_scan_eg.png",
-    "hdd_internal_structure.png",
-    "address_resolution_with_tlb.png",
-    "GateNotes/OperatingSystems/Attachments/Images/hdd_internal_structure.png",
     "GateNotes/OperatingSystems/Attachments/Images/page_table_example.png.~tmp",
     "GateNotes/ComputerNetworks/Attachments/PDFs",
     "GateNotes/ComputerNetworks/Attachments/Images",
