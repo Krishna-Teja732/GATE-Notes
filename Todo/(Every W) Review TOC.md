@@ -11,3 +11,10 @@ endRecur: 2024-02-29
 #### Review Questions
 
 #### Topics to learn
+- Finite automata
+	- Regular expressions & Regular Languages
+	- Pumping lemma
+- Grammar
+- Push-down automata
+- Turing machines
+- Undecidability

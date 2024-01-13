@@ -18,7 +18,6 @@ endRecur: 2024-03-01
 
 #### Review Material
 - Carl Hamacher book
-- [Computer Arch lectures](https://www.youtube.com/watch?v=MMeVTgA-MHc&list=PLxB5s7fKeSjNm5ihSbmgv9yF0KjKY_yp2&pp=iAQB)
 
 #### Review Questions
 - [Machine Instructions](https://practicepaper.in/gate-cse/machine-instruction?page_no=2)
@@ -26,13 +25,16 @@ endRecur: 2024-03-01
 - [Interrupts](https://practicepaper.in/gate-cse/interrupt)
 - [Processor Basics questions](https://practicepaper.in/gate-cse/alu-data-path-and-control-unit)
 - [Cache](https://practicepaper.in/gate-cse/cache-memory)
-	- From page 6
 
 #### Topics to learn
 - Machine instructions
 	- What is opcode expansion
 - Pipelined processor
+- Virtual memory
+- IO
+	- Programmed IO
 - Memory management
 	- RAM
 	- ROM
 - Secondary memory
+- Cache update methods

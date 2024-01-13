@@ -14,7 +14,10 @@ endRecur: 2024-03-01
 	- HTTP
 	- FTP
 	- Email
-
+- Transport Layer Protocol
+	-  UDP
+	- TCP
+	- Sockets
 #### Review Questions
 - [OSI Layer](https://www.practicepaper.in/gate-cse/osi-layer)
 - [Physical Layer](https://www.practicepaper.in/gate-cse/physical-layer)
@@ -41,7 +44,4 @@ endRecur: 2024-03-01
 		- Distance vector and link state routing
 - Transport Layer Protocol
 	- Flow control and congestion control
-	- UDP
-	- TCP
-	- Sockets
 - Network Security

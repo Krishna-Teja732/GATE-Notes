@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1fdb41bcedced59f",
+        "id": "edf9e1db8bc31e85",
         "type": "tabs",
         "children": [
           {
-            "id": "f6f2d39baf1b701c",
+            "id": "746dd0b9d28e8c4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GateNotes/ComputerNetworks/3.2 TCP.md",
+                "file": "GateNotes/ComputerNetworks/4.4 Routing protocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pipelined",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GateNotes/ComputerNetworks/3.2 TCP.md",
+                "file": "GateNotes/ComputerNetworks/4.4 Routing protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GateNotes/ComputerNetworks/3.2 TCP.md",
+                "file": "GateNotes/ComputerNetworks/4.4 Routing protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GateNotes/ComputerNetworks/3.2 TCP.md"
+                "file": "GateNotes/ComputerNetworks/4.4 Routing protocols.md"
               }
             }
           }
@@ -147,53 +147,52 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d61075cf8a152f57",
+  "active": "746dd0b9d28e8c4c",
   "lastOpenFiles": [
-    "GateNotes/ComputerNetworks/3.3 TCP Congestion Control.md",
-    "GateNotes/ComputerNetworks/3.2 TCP.md",
-    "GateNotes/ComputerNetworks/Attachments/Images/tcp_closing_connection.png",
-    "GateNotes/ComputerNetworks/Attachments/Images/tcp_three_way_handshake.png",
-    "3.2 TCP.md",
+    "GateNotes/ComputerNetworks/5.1 Link Layer.md",
+    "GateNotes/ComputerNetworks/4.2 IP protocol.md",
+    "GateNotes/ComputerNetworks/3.1 Transport Layer.md",
+    "GateNotes/ComputerNetworks/4.4 Routing protocols.md",
+    "GateNotes/ComputerNetworks/4.3 ICMP.md",
     "GateNotes/ComputerNetworks/3.2 Principles for Reliable data transfer.md",
-    "GateNotes/ComputerNetworks/3.1 Transport Layer - TCP and UDP.md",
+    "GateNotes/ComputerNetworks/3.3 TCP.md",
+    "GateNotes/ComputerNetworks/3.4 TCP Congestion Control.md",
+    "GateNotes/ComputerNetworks/Attachments/Images/ipv6_format.png",
+    "GateNotes/ComputerNetworks/Attachments/Images/icmp_codes.png",
+    "GateNotes/ComputerNetworks/4.1 Network layer.md",
     "GateNotes/ComputerNetworks/1.2 OSI.md",
-    "GateNotes/ComputerNetworks/2.1 Application Layer.md",
-    "GateNotes/ComputerNetworks/Attachments/Images/tcp_segment.png",
-    "GateNotes/ComputerNetworks/Attachments/Images/Pasted image 20231209083822.png",
-    "GateNotes/ComputerNetworks/Attachments/Images/tcp_state_diag_case1.png",
-    "Todo/(Every M) Review Computer Networks.md",
-    "GateNotes/DBMS/1.4 Relational Tuple Calculus.md",
-    "GateNotes/DBMS/2.1 ER Models.md",
-    "GateNotes/DBMS/3.1 DB Design.md",
-    "GateNotes/DBMS/3.2 DB Design - Normal Forms.md",
-    "GateNotes/ComputerNetworks/Attachments/Images/dns_iterative_recursive_eg.jpg",
-    "GateNotes/ComputerNetworks/Attachments/Images/email_example.png",
-    "GateNotes/ComputerNetworks/Attachments/Images/Pasted image 20231205114726.png",
+    "GateNotes/ComputerNetworks/Attachments/Images/ipv4_packet_format.png",
+    "GateNotes/ComputerNetworks/Attachments/Images/network_service_model_example.png",
     "GateNotes/ComputerNetworks/1.1 Introduction.md",
-    "Todo/(Every U) Review Data Structures & Algorithms.md",
-    "GateNotes/DigitalDesign/2.1 Combinational circuits.md",
+    "GateNotes/ComputerNetworks/2.1 Application Layer.md",
+    "Todo/(Every M) Review Computer Networks.md",
+    "GateNotes/ComputerArchitecture/4.1 Basic Processing Unit.md",
+    "GateNotes/ComputerArchitecture/3.1 Basic IO.md",
+    "GateNotes/ComputerArchitecture/Attachments/Images/pipelined_execution.png",
+    "GateNotes/ComputerArchitecture/2.2 Computer Organization - RISC.md",
+    "GateNotes/OperatingSystems/2.1 Processes.md",
+    "GateNotes/OperatingSystems/4.2 Paging.md",
+    "GateNotes/OperatingSystems/4.1 Memory Organization.md",
+    "GateNotes/OperatingSystems/3.2 Dead Lock.md",
+    "GateNotes/OperatingSystems/3.1 Process Synchronization.md",
+    "GateNotes/OperatingSystems/2.3 Scheduling.md",
+    "GateNotes/OperatingSystems/2.2 Threads.md",
+    "GateNotes/OperatingSystems/1.1 Introduction to Operation Systems.md",
+    "GateNotes/ComputerArchitecture/5.2 Cache.md",
+    "GateNotes/ComputerArchitecture/Attachments/Images/stack_frame_example.png",
+    "GateNotes/DigitalDesign/Attachments/Images/truth_table_1_k_map_groups.jpg",
+    "GateNotes/DigitalDesign/Attachments/Images/truth_table_1_k_map_represrntation.png",
+    "GateNotes/DigitalDesign/Attachments/Images/truth_table_1_simplified_boolean_exp.jpg",
+    "GateNotes/DigitalDesign/Attachments/Images/truth_table_1_simplified_representation.png",
+    "GateNotes/TheoryOfComputing/Attachments/PDFs",
+    "GateNotes/TheoryOfComputing/Attachments/Images",
+    "GateNotes/TheoryOfComputing/Attachments",
+    "GateNotes/TheoryOfComputing",
+    "GateNotes/Theory Of Computing/Attachments/PDFs",
+    "GateNotes/Theory Of Computing/Attachments/Images",
+    "GateNotes/Theory Of Computing/Attachments",
+    "GateNotes/Theory Of Computing",
     "Syllabus.pdf",
-    "Todo/(Every S) Review Digital design.md",
-    "GateNotes/DigitalDesign/3.1 Sequential Circuits.md",
-    "Todo/Template.md",
-    "GateNotes/DigitalDesign/1.2 Logic Gates & Boolean algebra.md",
-    "GateNotes/DBMS/1.3 Relational Algebra.md",
-    "GateNotes/DigitalDesign/1.1 Number systems.md",
-    "Todo/(Every ) Review Mathematics.md",
-    "GateNotes/Questions.md",
-    "Todo/(Every T) Review DBMS.md",
-    "Todo/(Every R) Review OS.md",
-    "Todo/(Every R) Review Compiler Design.md",
-    "GateNotes/DBMS/Attachments/Images/er_diag_notations.png",
-    "Pasted image 20231128225332.png",
-    "GateNotes/OperatingSystems/Attachments/Images/page_table_example.png.~tmp",
-    "GateNotes/ComputerNetworks/Attachments/PDFs",
-    "GateNotes/ComputerNetworks/Attachments/Images",
-    "GateNotes/ComputerNetworks/Attachments",
-    "GateNotes/ComputerNetworks",
-    "GateNotes/DBMS - Copy/Attachments/PDFs",
-    "GateNotes/DBMS - Copy/Attachments/Images",
-    "GateNotes/DBMS - Copy/Attachments",
-    "GateNotes/DBMS - Copy"
+    "GateNotes/OperatingSystems/Attachments/Images/page_table_example.png.~tmp"
   ]
 }
