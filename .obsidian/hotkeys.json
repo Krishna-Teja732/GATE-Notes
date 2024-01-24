@@ -85,5 +85,13 @@
       ],
       "key": "6"
     }
+  ],
+  "obsidian-full-calendar:full-calendar-open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }

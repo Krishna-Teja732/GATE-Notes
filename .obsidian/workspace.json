@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "edf9e1db8bc31e85",
+        "id": "d221d863c76e67ff",
         "type": "tabs",
         "children": [
           {
-            "id": "746dd0b9d28e8c4c",
+            "id": "943804745d97a57d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GateNotes/ComputerNetworks/4.4 Routing protocols.md",
+                "file": "GateNotes/ComputerNetworks/4.4 Routing Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9866744615d31448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GateNotes/ComputerArchitecture/5.2 Cache.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "priority inversion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GateNotes/ComputerNetworks/4.4 Routing protocols.md",
+                "file": "GateNotes/ComputerNetworks/4.4 Routing Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GateNotes/ComputerNetworks/4.4 Routing protocols.md",
+                "file": "GateNotes/ComputerNetworks/4.4 Routing Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GateNotes/ComputerNetworks/4.4 Routing protocols.md"
+                "file": "GateNotes/ComputerNetworks/4.4 Routing Algorithms.md"
               }
             }
           }
@@ -147,43 +159,46 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "746dd0b9d28e8c4c",
+  "active": "943804745d97a57d",
   "lastOpenFiles": [
-    "GateNotes/ComputerNetworks/5.1 Link Layer.md",
+    "GateNotes/ComputerNetworks/4.1 Network layer.md",
     "GateNotes/ComputerNetworks/4.2 IP protocol.md",
-    "GateNotes/ComputerNetworks/3.1 Transport Layer.md",
-    "GateNotes/ComputerNetworks/4.4 Routing protocols.md",
     "GateNotes/ComputerNetworks/4.3 ICMP.md",
-    "GateNotes/ComputerNetworks/3.2 Principles for Reliable data transfer.md",
-    "GateNotes/ComputerNetworks/3.3 TCP.md",
-    "GateNotes/ComputerNetworks/3.4 TCP Congestion Control.md",
+    "GateNotes/ComputerNetworks/4.5 Routing in Internet.md",
+    "GateNotes/ComputerArchitecture/4.1 Processing Unit.md",
+    "GateNotes/ComputerArchitecture/5.2 Cache.md",
+    "Todo/(Every F) Review Computer Architecture.md",
+    "GateNotes/OperatingSystems/5.1 Secondary storage devices.md",
+    "GateNotes/OperatingSystems/2.3 Scheduling.md",
+    "GateNotes/DBMS/3.2 DB Design - Normal Forms.md",
+    "GateNotes/ComputerArchitecture/Attachments/Images/two_state_branch_prediction.png",
+    "GateNotes/ComputerNetworks/5.1 Link Layer.md",
+    "GateNotes/ComputerArchitecture/Attachments/Images/branch_penalty_example.png",
+    "GateNotes/ComputerArchitecture/Attachments/Images/data_hazard_pipeline_example.png",
+    "GateNotes/ComputerNetworks/3.1 Transport Layer.md",
+    "GateNotes/DataStructuresAlgorithms/1 Asymptotic Notations.md",
+    "Todo/(Every M) Review Computer Networks.md",
+    "GateNotes/DataStructuresAlgorithms/4 Heaps.md",
+    "GateNotes/DataStructuresAlgorithms/2 Hashing.md",
+    "GateNotes/DataStructuresAlgorithms/3 AVL Trees.md",
+    "GateNotes/ComputerNetworks/4.4 Routing Algorithms.md",
+    "GateNotes/ComputerNetworks/Attachments/Images/count_to_infinity_example.png",
+    "GateNotes/ComputerNetworks/Attachments/Images/distance_vector_algorithm.png",
+    "GateNotes/ComputerArchitecture/5.1 Memory Organization.md",
+    "Syllabus.pdf",
+    "GateNotes/TheoryOfComputing/1 Finite Automata.md",
+    "GateNotes/DataStructuresAlgorithms",
+    "GateNotes/Untitled.md",
+    "GateNotes/OperatingSystems/Abbreviations.md",
+    "GateNotes/OperatingSystems/References.md",
+    "GateNotes/OperatingSystems/4.2 Paging.md",
+    "GateNotes/OperatingSystems/4.3 Frame allocation.md",
+    "GateNotes/ComputerArchitecture/5.3 DMA.md",
     "GateNotes/ComputerNetworks/Attachments/Images/ipv6_format.png",
     "GateNotes/ComputerNetworks/Attachments/Images/icmp_codes.png",
-    "GateNotes/ComputerNetworks/4.1 Network layer.md",
-    "GateNotes/ComputerNetworks/1.2 OSI.md",
     "GateNotes/ComputerNetworks/Attachments/Images/ipv4_packet_format.png",
     "GateNotes/ComputerNetworks/Attachments/Images/network_service_model_example.png",
-    "GateNotes/ComputerNetworks/1.1 Introduction.md",
-    "GateNotes/ComputerNetworks/2.1 Application Layer.md",
-    "Todo/(Every M) Review Computer Networks.md",
-    "GateNotes/ComputerArchitecture/4.1 Basic Processing Unit.md",
-    "GateNotes/ComputerArchitecture/3.1 Basic IO.md",
     "GateNotes/ComputerArchitecture/Attachments/Images/pipelined_execution.png",
-    "GateNotes/ComputerArchitecture/2.2 Computer Organization - RISC.md",
-    "GateNotes/OperatingSystems/2.1 Processes.md",
-    "GateNotes/OperatingSystems/4.2 Paging.md",
-    "GateNotes/OperatingSystems/4.1 Memory Organization.md",
-    "GateNotes/OperatingSystems/3.2 Dead Lock.md",
-    "GateNotes/OperatingSystems/3.1 Process Synchronization.md",
-    "GateNotes/OperatingSystems/2.3 Scheduling.md",
-    "GateNotes/OperatingSystems/2.2 Threads.md",
-    "GateNotes/OperatingSystems/1.1 Introduction to Operation Systems.md",
-    "GateNotes/ComputerArchitecture/5.2 Cache.md",
-    "GateNotes/ComputerArchitecture/Attachments/Images/stack_frame_example.png",
-    "GateNotes/DigitalDesign/Attachments/Images/truth_table_1_k_map_groups.jpg",
-    "GateNotes/DigitalDesign/Attachments/Images/truth_table_1_k_map_represrntation.png",
-    "GateNotes/DigitalDesign/Attachments/Images/truth_table_1_simplified_boolean_exp.jpg",
-    "GateNotes/DigitalDesign/Attachments/Images/truth_table_1_simplified_representation.png",
     "GateNotes/TheoryOfComputing/Attachments/PDFs",
     "GateNotes/TheoryOfComputing/Attachments/Images",
     "GateNotes/TheoryOfComputing/Attachments",
@@ -191,8 +206,6 @@
     "GateNotes/Theory Of Computing/Attachments/PDFs",
     "GateNotes/Theory Of Computing/Attachments/Images",
     "GateNotes/Theory Of Computing/Attachments",
-    "GateNotes/Theory Of Computing",
-    "Syllabus.pdf",
-    "GateNotes/OperatingSystems/Attachments/Images/page_table_example.png.~tmp"
+    "GateNotes/Theory Of Computing"
   ]
 }

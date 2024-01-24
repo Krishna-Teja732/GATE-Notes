@@ -15,9 +15,12 @@ endRecur: 2024-03-01
 - Interrupts
 - Memory management
 	- Cache
-
-#### Review Material
-- Carl Hamacher book
+- Pipelined processor
+- Virtual memory
+	- Logical addressing 
+	- Physical addressing
+	- Logical to physical address conversion 
+- Secondary memory
 
 #### Review Questions
 - [Machine Instructions](https://practicepaper.in/gate-cse/machine-instruction?page_no=2)
@@ -26,15 +29,28 @@ endRecur: 2024-03-01
 - [Processor Basics questions](https://practicepaper.in/gate-cse/alu-data-path-and-control-unit)
 - [Cache](https://practicepaper.in/gate-cse/cache-memory)
 
-#### Topics to learn
-- Machine instructions
+#### Topics to learn 
+- **Topics to focus**
+	- Speedup calculations in pipelined processors
+- **Concepts**
+	- [[5.2 Cache#5 Multi level Cache|Multi level cache access]] 
+	- IO
+		- Programmed IO
+		- Daisy Chaining
+	- Memory management
+		- RAM
+		- ROM
+- **Specific Questions**
 	- What is opcode expansion
-- Pipelined processor
-- Virtual memory
-- IO
-	- Programmed IO
-- Memory management
-	- RAM
-	- ROM
-- Secondary memory
-- Cache update methods
+	- Handling stale data in cache in a multi processor system
+	- Reservation table for pipeline
+	- Return from exception instruction and trap instruction
+	- Register indirect scaled addressing
+	- Micro programming
+		- Horizontal and vertical micro programming
+	- IO
+		- Serial and parallel IO
+		- Interrupts
+			- Interrupts types
+			- 8086 pin layout
+	- 2's complement arithmetic operations

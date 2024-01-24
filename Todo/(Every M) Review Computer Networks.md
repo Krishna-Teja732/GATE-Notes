@@ -18,11 +18,17 @@ endRecur: 2024-03-01
 	-  UDP
 	- TCP
 	- Sockets
+- Network layer
+	- Fragmentation
+	- IP
+	- CIDR notation
+- 
 #### Review Questions
 - [OSI Layer](https://www.practicepaper.in/gate-cse/osi-layer)
 - [Physical Layer](https://www.practicepaper.in/gate-cse/physical-layer)
 - [Data Link Layer](https://www.practicepaper.in/gate-cse/data-link-layer)
 - [Network Layer Protocol](https://www.practicepaper.in/gate-cse/network-layer-protocol)
+	- From page 16
 - [Transport Layer Protocol](https://www.practicepaper.in/gate-cse/transport-layer-protocol)
 - [Application Layer Protocols](https://www.practicepaper.in/gate-cse/application-layer-protocols)
 - [Network Security](https://www.practicepaper.in/gate-cse/network-security)
@@ -35,13 +41,11 @@ endRecur: 2024-03-01
 	- Medium Access Control
 	- Ethernet bridging
 - Network Layer Protocol
-	- Fragmentation
-	- IP
-	- CIDR notation
 	- Routing
-		- Shortest path
-		- Flooding
 		- Distance vector and link state routing
+		- OSPF (Flooding)
+		- RIP
+		- BGP
 - Transport Layer Protocol
 	- Flow control and congestion control
 - Network Security
