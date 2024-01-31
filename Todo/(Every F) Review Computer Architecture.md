@@ -28,6 +28,9 @@ endRecur: 2024-03-01
 - [Interrupts](https://practicepaper.in/gate-cse/interrupt)
 - [Processor Basics questions](https://practicepaper.in/gate-cse/alu-data-path-and-control-unit)
 - [Cache](https://practicepaper.in/gate-cse/cache-memory)
+- All topics
+	- [Computer Architecture Questions](https://practicepaper.in/gate-cse/computer-organization?page_no=46)
+		- Page 46
 
 #### Topics to learn 
 - **Topics to focus**
@@ -40,10 +43,9 @@ endRecur: 2024-03-01
 	- Memory management
 		- RAM
 		- ROM
-- **Specific Questions**
+- **Additional topics to learn**
 	- What is opcode expansion
 	- Handling stale data in cache in a multi processor system
-	- Reservation table for pipeline
 	- Return from exception instruction and trap instruction
 	- Register indirect scaled addressing
 	- Micro programming

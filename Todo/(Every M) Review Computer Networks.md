@@ -22,7 +22,12 @@ endRecur: 2024-03-01
 	- Fragmentation
 	- IP
 	- CIDR notation
-- 
+	- Flow control and congestion control
+- Network layer
+	- Distance vector and link state routing
+	- OSPF
+	- RIP
+
 #### Review Questions
 - [OSI Layer](https://www.practicepaper.in/gate-cse/osi-layer)
 - [Physical Layer](https://www.practicepaper.in/gate-cse/physical-layer)
@@ -40,12 +45,8 @@ endRecur: 2024-03-01
 	- Error detection
 	- Medium Access Control
 	- Ethernet bridging
-- Network Layer Protocol
-	- Routing
-		- Distance vector and link state routing
-		- OSPF (Flooding)
-		- RIP
-		- BGP
-- Transport Layer Protocol
-	- Flow control and congestion control
 - Network Security
+
+- **Additional topics to learn**
+	- Network Layer Protocol
+		- BGP #TODO-Extras 
