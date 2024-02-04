@@ -29,4 +29,3 @@ endRecur: 2024-03-01
 	- Lossless decomposition
 	- Dependency preserving
 - SQL
-- Enhanced ER Model
