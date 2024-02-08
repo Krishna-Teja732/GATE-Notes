@@ -38,18 +38,42 @@
       "key": "-"
     }
   ],
-  "editor:set-heading-1": [
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
         "Alt"
       ],
+      "key": "Q"
+    }
+  ],
+  "obsidian-full-calendar:full-calendar-open": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
       "key": "1"
     }
   ],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
   "editor:set-heading-2": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "2"
     }
@@ -57,7 +81,7 @@
   "editor:set-heading-3": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "3"
     }
@@ -65,7 +89,7 @@
   "editor:set-heading-4": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "4"
     }
@@ -73,7 +97,7 @@
   "editor:set-heading-5": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "5"
     }
@@ -81,25 +105,9 @@
   "editor:set-heading-6": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "6"
-    }
-  ],
-  "obsidian-full-calendar:full-calendar-open": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "C"
-    }
-  ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Q"
     }
   ]
 }
