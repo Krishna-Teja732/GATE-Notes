@@ -54,14 +54,6 @@
       "key": "C"
     }
   ],
-  "editor:set-heading-1": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "1"
-    }
-  ],
   "workspace:goto-tab-1": [],
   "workspace:goto-tab-2": [],
   "workspace:goto-tab-3": [],
@@ -70,10 +62,18 @@
   "workspace:goto-tab-6": [],
   "workspace:goto-tab-7": [],
   "workspace:goto-tab-8": [],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
   "editor:set-heading-2": [
     {
       "modifiers": [
-        "Mod"
+        "Shift"
       ],
       "key": "2"
     }
@@ -81,7 +81,7 @@
   "editor:set-heading-3": [
     {
       "modifiers": [
-        "Mod"
+        "Shift"
       ],
       "key": "3"
     }
@@ -89,7 +89,7 @@
   "editor:set-heading-4": [
     {
       "modifiers": [
-        "Mod"
+        "Shift"
       ],
       "key": "4"
     }
@@ -97,7 +97,7 @@
   "editor:set-heading-5": [
     {
       "modifiers": [
-        "Mod"
+        "Shift"
       ],
       "key": "5"
     }
@@ -105,7 +105,7 @@
   "editor:set-heading-6": [
     {
       "modifiers": [
-        "Mod"
+        "Shift"
       ],
       "key": "6"
     }
