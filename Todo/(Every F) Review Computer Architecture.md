@@ -2,9 +2,10 @@
 title: Review Computer Architecture
 allDay: true
 type: recurring
-daysOfWeek: [F]
+daysOfWeek:
+  - F
 startRecur: 2023-10-20
-endRecur: 2024-03-01
+endRecur: 2024-10-20
 ---
 #### Topics Learnt
 - Machine Instruction

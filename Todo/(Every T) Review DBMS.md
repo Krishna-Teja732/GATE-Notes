@@ -2,9 +2,10 @@
 title: Review DBMS
 allDay: true
 type: recurring
-daysOfWeek: [T]
+daysOfWeek:
+  - T
 startRecur: 2023-10-24
-endRecur: 2024-03-01
+endRecur: 2024-10-01
 ---
 #### Topics learnt 
 - Relational Schema

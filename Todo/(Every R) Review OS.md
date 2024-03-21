@@ -2,9 +2,10 @@
 title: Review OS
 allDay: true
 type: recurring
-daysOfWeek: [R]
+daysOfWeek:
+  - R
 startRecur: 2023-10-19
-endRecur: 2024-03-01
+endRecur: 2024-10-01
 ---
 #### Topics Learnt
 - Deadlock prevention, avoidance, Deadlock recovery schemes  

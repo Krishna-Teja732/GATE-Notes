@@ -2,9 +2,10 @@
 title: Review Digital design
 allDay: true
 type: recurring
-daysOfWeek: [S]
+daysOfWeek:
+  - S
 startRecur: 2023-10-21
-endRecur: 2024-03-01
+endRecur: 2024-10-01
 ---
 #### Review topics
 - Sequential circuits

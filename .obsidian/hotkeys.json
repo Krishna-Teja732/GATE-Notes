@@ -62,26 +62,26 @@
   "workspace:goto-tab-6": [],
   "workspace:goto-tab-7": [],
   "workspace:goto-tab-8": [],
-  "editor:set-heading-1": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "1"
-    }
-  ],
   "editor:set-heading-2": [
     {
       "modifiers": [
-        "Shift"
+        "Meta"
       ],
       "key": "2"
+    }
+  ],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "1"
     }
   ],
   "editor:set-heading-3": [
     {
       "modifiers": [
-        "Shift"
+        "Meta"
       ],
       "key": "3"
     }
@@ -89,7 +89,7 @@
   "editor:set-heading-4": [
     {
       "modifiers": [
-        "Shift"
+        "Meta"
       ],
       "key": "4"
     }
@@ -97,7 +97,7 @@
   "editor:set-heading-5": [
     {
       "modifiers": [
-        "Shift"
+        "Meta"
       ],
       "key": "5"
     }
@@ -105,7 +105,7 @@
   "editor:set-heading-6": [
     {
       "modifiers": [
-        "Shift"
+        "Meta"
       ],
       "key": "6"
     }

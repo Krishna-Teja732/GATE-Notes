@@ -2,9 +2,10 @@
 title: Review Data Structures & Algorithms
 allDay: true
 type: recurring
-daysOfWeek: [U]
+daysOfWeek:
+  - U
 startRecur: 2023-11-26
-endRecur: 2024-02-29
+endRecur: 2024-10-10
 ---
 #### Topics Learnt
 
