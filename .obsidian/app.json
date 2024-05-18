@@ -1,5 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "/",
-  "vimMode": true
+  "vimMode": true,
+  "autoPairBrackets": false,
+  "readableLineLength": false,
+  "showLineNumber": false
 }

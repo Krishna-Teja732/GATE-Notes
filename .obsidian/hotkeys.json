@@ -109,5 +109,15 @@
       ],
       "key": "6"
     }
-  ]
+  ],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:close-window": []
 }
