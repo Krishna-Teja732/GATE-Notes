@@ -119,5 +119,14 @@
       "key": "W"
     }
   ],
-  "workspace:close-window": []
+  "workspace:close-window": [],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": []
 }

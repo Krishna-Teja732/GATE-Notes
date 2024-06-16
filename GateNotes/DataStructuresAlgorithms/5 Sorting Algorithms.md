@@ -21,4 +21,3 @@
 	- Pivot Index = N/2, where N is the size of array 
 	- After one iteration
 		- every element below N/2 will be the smallest N/2 elements
-	- 

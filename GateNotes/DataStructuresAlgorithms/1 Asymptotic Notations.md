@@ -5,7 +5,7 @@
 ##### 1.1 Theta notation, Big O and Big Omega notations
 ![](./Attachments/Images/asymptotic_notations.png)
 
-##### 1.2 Small o, small omega notations
+##### 1.2 Small o, small ω notations
 - Small o notation
 	- Used when when the function is not asymptotically tight 
 	- n belongs to o(n<sup>2</sup>)
